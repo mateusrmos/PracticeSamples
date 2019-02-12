@@ -35,6 +35,7 @@ Sim, porém não é a melhor prática para ser utilizada, pelo fato de a linguag
  de 1 a 9 de tal forma que não hajam números repetidos em uma mesma coluna, linha
  ou quadrante. Escreva um procedimento que gere uma matriz 9x9 válida como resultado de sudoku considerando uma grade vazia.
 7. Faça uma API RESTful capaz de pesquisar automóveis no site https://www.seminovosbh.com.br​. 
+
 7.1. A API RESTful deverá possuir dois endpoints, sendo eles:  
 -​Pesquisa de veículos​, sendo possível realizar filtros semelhantes ao do site.
   Deverá ser retornado as informações básicas dos veículos (ano, modelo, quilometragem e valor)
