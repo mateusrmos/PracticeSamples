@@ -1,3 +1,4 @@
+
 # Exercício de prática
 
 ## Introdução
@@ -6,6 +7,7 @@ A aplicação tem como objetivo praticar algumas habilidades no PHP e responder 
 
 ## Questionamentos
 1. Escreva uma função que receba como parâmetros os coeficientes de uma equação de segundo grau e retorne suas raízes. 
+`ExerciceOne/`
 2. Em Javascript, qual a diferença entre == e ===? 
 * Resposta:
 `
@@ -13,7 +15,7 @@ A diferença entre as duas expressões é que "==" tenta converter as 2 variáve
 `
 
 3. Em PHP, escreva as classes necessárias para representar um estacionamento. 
-
+`ExerciceThree/`
 4. Qual o resultado do trecho de código a seguir: 
 ```php
  <?php 
@@ -35,7 +37,6 @@ Sim, porém não é a melhor prática para ser utilizada, pelo fato de a linguag
  de 1 a 9 de tal forma que não hajam números repetidos em uma mesma coluna, linha
  ou quadrante. Escreva um procedimento que gere uma matriz 9x9 válida como resultado de sudoku considerando uma grade vazia.
 7. Faça uma API RESTful capaz de pesquisar automóveis no site https://www.seminovosbh.com.br​. 
-
 7.1. A API RESTful deverá possuir dois endpoints, sendo eles:  
 -​Pesquisa de veículos​, sendo possível realizar filtros semelhantes ao do site.
   Deverá ser retornado as informações básicas dos veículos (ano, modelo, quilometragem e valor)
@@ -46,3 +47,4 @@ Sim, porém não é a melhor prática para ser utilizada, pelo fato de a linguag
 
 ## Instruções sobre o código
 
+O código possui testes unitários que podem ser encontrados em `tests/`

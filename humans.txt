@@ -1,1 +1,9 @@
-
+/* TEAM */
+    Developer: Mateus Ramos
+    Contact: mateus-bh@hotmail.com
+    From: Contagem, Minas Gerais, Brazil
+/* SITE */
+    Last update: 2019/02/12
+    Language: PHP
+    IDE: Netbeans
+    
